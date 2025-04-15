@@ -1,0 +1,10 @@
+splunk
+cybersecurity
+blue-team
+detection-engineering
+siem
+eventid-4625
+security-monitoring
+brute-force
+windows-logging
+home-lab
